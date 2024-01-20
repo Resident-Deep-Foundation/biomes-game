@@ -1,0 +1,14 @@
+.cow
+.devcontainer
+.dockerignore
+.env.development
+.gitattributes
+.github
+.gitignore
+.vscode
+cloud-functions
+cmake_out
+ecs
+README.md
+templates
+yarn-error.log
