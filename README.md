@@ -1,6 +1,6 @@
 # Biomes
 
-[![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://github.com/Resident-Deep-Foundation/biomes-game) 
+[![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Resident-Deep-Foundation/biomes-game) 
 
 ### Overview
 
